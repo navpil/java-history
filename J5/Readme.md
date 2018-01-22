@@ -10,6 +10,8 @@ MXBeans
 
 ## Language changes
 
+https://docs.oracle.com/javase/1.5.0/docs/relnotes/features.html
+
  - Generics
  - Annotations
    - Cannot implement an interface, cannot extend each other and as of Java 1.5 there can't be multiple annotations
@@ -20,6 +22,7 @@ MXBeans
  - for-each loop
  - static imports
  - covariant return types
+ - String.format
  
 ## Tools
 
