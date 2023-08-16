@@ -8,6 +8,8 @@ Scanner class
 Instrumentation
 MXBeans
 
+
+
 ## Language changes
 
 https://docs.oracle.com/javase/1.5.0/docs/relnotes/features.html
@@ -23,7 +25,11 @@ https://docs.oracle.com/javase/1.5.0/docs/relnotes/features.html
  - static imports
  - covariant return types
  - String.format
- 
+
+[Shortlist of changes in Java 5](https://www.oracle.com/technical-resources/articles/java/java-5-features.html)
+
+[Yet another article about changes](https://www.cs.indiana.edu/classes/jett/sstamm/)
+
 ## Tools
 
 new :

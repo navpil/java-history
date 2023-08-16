@@ -40,6 +40,8 @@ http://www.oracle.com/technetwork/java/javase/changes-136374.html
      
 https://en.wikipedia.org/wiki/Java_version_history#J2SE_1.4
 
+[Top ten new features in Java 1.4](http://web.archive.org/web/20090124223800/http://www.onjava.com/pub/a/onjava/2002/03/06/topten.html)
+
 Language changes
 
  - assert keyword (specified in JSR 41)

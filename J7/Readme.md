@@ -14,6 +14,8 @@ Java NIO2 (Path, Files):
 
  - [Difference betwen IO, NIO and NIO2](http://java-latte.blogspot.com/2014/10/nio-tutorial-in-java-with-example-and-nio2-feature.html)
 
+[55 things in Java 7 (slides)](https://www.slideshare.net/boulderjug/55-things-in-java-7)
+
 ## Language changes
 
 ## Tools
